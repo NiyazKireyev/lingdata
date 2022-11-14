@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-11-14T23:20:56+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-11-14T23:44:23+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -10,7 +10,7 @@
             MEDIA_URL="file:///Users/niyaz/Desktop/софт/2.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./2.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:24cd6a2f-9075-45b8-8e64-b5eda18787e1</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">3920</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">4009</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="3880"/>
@@ -12894,6 +12894,451 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a489" ANNOTATION_REF="a18" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3921" ANNOTATION_REF="a494" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3922" ANNOTATION_REF="a495" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3923" ANNOTATION_REF="a496" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3924" ANNOTATION_REF="a497" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3925" ANNOTATION_REF="a498" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3926" ANNOTATION_REF="a499" CVE_REF="cveid_2733f4a2-eef6-43c3-b64e-ab13f19ca1f3">
+                <ANNOTATION_VALUE>вопрос специальный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3927" ANNOTATION_REF="a500" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3928" ANNOTATION_REF="a501" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3929" ANNOTATION_REF="a502" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3930" ANNOTATION_REF="a503" CVE_REF="cveid_cf5cefc2-4048-4916-8a08-0ee4d9e5ecf1">
+                <ANNOTATION_VALUE>неясно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3931" ANNOTATION_REF="a504" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3932" ANNOTATION_REF="a505" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3933" ANNOTATION_REF="a506" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3934" ANNOTATION_REF="a507" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3935" ANNOTATION_REF="a508" CVE_REF="cveid_2733f4a2-eef6-43c3-b64e-ab13f19ca1f3">
+                <ANNOTATION_VALUE>вопрос специальный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3936" ANNOTATION_REF="a509" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3937" ANNOTATION_REF="a510" CVE_REF="cveid_2733f4a2-eef6-43c3-b64e-ab13f19ca1f3">
+                <ANNOTATION_VALUE>вопрос специальный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3938" ANNOTATION_REF="a511" CVE_REF="cveid_9061554b-62eb-407f-98cd-c1c952373ab7">
+                <ANNOTATION_VALUE>обрыв</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3939" ANNOTATION_REF="a512" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3940" ANNOTATION_REF="a513" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3941" ANNOTATION_REF="a514" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3942" ANNOTATION_REF="a515" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3943" ANNOTATION_REF="a516" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3944" ANNOTATION_REF="a517" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3945" ANNOTATION_REF="a518" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3946" ANNOTATION_REF="a519" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3947" ANNOTATION_REF="a520" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3948" ANNOTATION_REF="a521" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3949" ANNOTATION_REF="a522" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3950" ANNOTATION_REF="a523" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3951" ANNOTATION_REF="a524" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3952" ANNOTATION_REF="a525" CVE_REF="cveid_cf5cefc2-4048-4916-8a08-0ee4d9e5ecf1">
+                <ANNOTATION_VALUE>неясно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3953" ANNOTATION_REF="a526" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3954" ANNOTATION_REF="a527" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3955" ANNOTATION_REF="a528" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3956" ANNOTATION_REF="a529" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3957" ANNOTATION_REF="a530" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3958" ANNOTATION_REF="a531" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3959" ANNOTATION_REF="a532" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3960" ANNOTATION_REF="a533" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3961" ANNOTATION_REF="a534" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3962" ANNOTATION_REF="a535" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3963" ANNOTATION_REF="a536" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3964" ANNOTATION_REF="a537" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3965" ANNOTATION_REF="a538" CVE_REF="cveid_cf5cefc2-4048-4916-8a08-0ee4d9e5ecf1">
+                <ANNOTATION_VALUE>неясно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3966" ANNOTATION_REF="a539" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3967" ANNOTATION_REF="a540" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3968" ANNOTATION_REF="a541" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3969" ANNOTATION_REF="a542" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3970" ANNOTATION_REF="a543" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3971" ANNOTATION_REF="a544" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3972" ANNOTATION_REF="a545" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3973" ANNOTATION_REF="a546" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3974" ANNOTATION_REF="a547" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3975" ANNOTATION_REF="a548" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3976" ANNOTATION_REF="a549" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3977" ANNOTATION_REF="a550" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3978" ANNOTATION_REF="a551" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3979" ANNOTATION_REF="a552" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3980" ANNOTATION_REF="a553" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3981" ANNOTATION_REF="a554" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3982" ANNOTATION_REF="a555" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3983" ANNOTATION_REF="a556" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3984" ANNOTATION_REF="a557" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3985" ANNOTATION_REF="a558" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3986" ANNOTATION_REF="a559" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3987" ANNOTATION_REF="a560" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3988" ANNOTATION_REF="a561" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3989" ANNOTATION_REF="a562" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3990" ANNOTATION_REF="a563" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3991" ANNOTATION_REF="a564" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3992" ANNOTATION_REF="a565" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3993" ANNOTATION_REF="a566" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3994" ANNOTATION_REF="a567" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3995" ANNOTATION_REF="a568" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3996" ANNOTATION_REF="a569" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3997" ANNOTATION_REF="a570" CVE_REF="cveid_2733f4a2-eef6-43c3-b64e-ab13f19ca1f3">
+                <ANNOTATION_VALUE>вопрос специальный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3998" ANNOTATION_REF="a571" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3999" ANNOTATION_REF="a572" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4000" ANNOTATION_REF="a573" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4001" ANNOTATION_REF="a574" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4002" ANNOTATION_REF="a575" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4003" ANNOTATION_REF="a576" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4004" ANNOTATION_REF="a577" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4005" ANNOTATION_REF="a578" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4006" ANNOTATION_REF="a579" CVE_REF="cveid_2733f4a2-eef6-43c3-b64e-ab13f19ca1f3">
+                <ANNOTATION_VALUE>вопрос специальный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4007" ANNOTATION_REF="a580" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4008" ANNOTATION_REF="a581" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4009" ANNOTATION_REF="a582" CVE_REF="cveid_afd3fe23-c98e-4d95-a5ef-6c36e17cb5b3">
                 <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
