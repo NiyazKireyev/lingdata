@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>AranRusj_x</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="948487">[lemma=&quot;.*ция&quot;]</subquery>
+  </query>
+</header>
+<frequency>
+  <items blockname="lemma">
+    <item>
+      <str attribute="lemma">организация</str>
+      <freq>74843</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">информация</str>
+      <freq>70206</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">ситуация</str>
+      <freq>39602</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">федерация</str>
+      <freq>35762</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">продукция</str>
+      <freq>35501</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">конструкция</str>
+      <freq>29931</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">функция</str>
+      <freq>26505</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">операция</str>
+      <freq>21035</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">реализация</str>
+      <freq>20245</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">регистрация</str>
+      <freq>20182</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">эксплуатация</str>
+      <freq>18977</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">позиция</str>
+      <freq>16562</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">акция</str>
+      <freq>16030</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">администрация</str>
+      <freq>14326</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">конференция</str>
+      <freq>12529</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">консультация</str>
+      <freq>11623</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">рекомендация</str>
+      <freq>11433</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">традиция</str>
+      <freq>11020</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">станция</str>
+      <freq>10348</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">реакция</str>
+      <freq>8917</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">коллекция</str>
+      <freq>8471</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">тенденция</str>
+      <freq>7971</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">документация</str>
+      <freq>7642</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">инструкция</str>
+      <freq>7598</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">ассоциация</str>
+      <freq>7519</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">эмоция</str>
+      <freq>7158</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">публикация</str>
+      <freq>7061</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">концепция</str>
+      <freq>6837</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">редакция</str>
+      <freq>6748</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">квалификация</str>
+      <freq>6712</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">Франция</str>
+      <freq>6503</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">инвестиция</str>
+      <freq>6435</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">коммуникация</str>
+      <freq>6335</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">оптимизация</str>
+      <freq>6136</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">презентация</str>
+      <freq>5567</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">композиция</str>
+      <freq>5148</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">реконструкция</str>
+      <freq>5126</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">инфекция</str>
+      <freq>4700</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">революция</str>
+      <freq>4609</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">конкуренция</str>
+      <freq>4512</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">полиция</str>
+      <freq>4497</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">корпорация</str>
+      <freq>4437</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">автоматизация</str>
+      <freq>4295</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">концентрация</str>
+      <freq>4292</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">компенсация</str>
+      <freq>4251</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">вентиляция</str>
+      <freq>4028</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">секция</str>
+      <freq>3895</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">модернизация</str>
+      <freq>3853</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">ликвидация</str>
+      <freq>3837</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="lemma">коррекция</str>
+      <freq>3710</freq>
+      <example></example>
+    </item>
+  </items>
+</frequency>
+</export>
